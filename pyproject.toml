@@ -1,0 +1,14 @@
+[project]
+name = "term-deposit-prediction"
+version = "0.1.0"
+description = "EDA and modeling to predict term deposit subscriptions based on banking marketing data."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "notebook>=7.5.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]
